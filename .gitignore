@@ -1,0 +1,6 @@
+datasets/*
+venv
+*.csv
+*.sav
+.idea
+__pycache__
